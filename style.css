@@ -1,0 +1,23 @@
+
+body {
+    font-family: sans-serif;
+    background-color: #f0f8ff;
+    text-align: center;
+    padding: 20px;
+}
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+button {
+    font-size: 24px;
+    padding: 15px 30px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+}
+.next-btn {
+    background-color: #008CBA;
+}
